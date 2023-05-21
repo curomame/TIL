@@ -1,0 +1,26 @@
+어형
+어간
+용언
+동사
+형용사
+
+
+어형변화 -> 통시적 어형변화, 공시적 어형변화
+표제어
+형태소 - 우리말에서 뜻을 가진 가장 작은 말의 단위
+어절
+
+품사
+
+용언, 체언, 수식언, 독립언
+
+nltk.help.upenn_tagset("VB")
+error나면 nltk.download()로 다운받아서 쓰기
+
+음절
+형태소
+단어
+어절
+
+Okt 문제
+https://github.com/konlpy/konlpy/issues/353
