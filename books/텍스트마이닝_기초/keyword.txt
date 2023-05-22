@@ -24,3 +24,8 @@ error나면 nltk.download()로 다운받아서 쓰기
 
 Okt 문제
 https://github.com/konlpy/konlpy/issues/353
+
+
+from konlpy.tag import Okt
+jvm_path = "/Library/Java/JavaVirtualMachines/zulu-15.jdk/Contents/Home/bin/java"
+okt = Okt(jvmpath=jvm_path)
